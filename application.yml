@@ -10,3 +10,4 @@ management:
 logging:
   level:
     org.springframework: debug
+    burrito: info
