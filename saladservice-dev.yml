@@ -1,1 +1,7 @@
+#Artifical delay for Hystrix testing
 delay: 500
+
+#Logging
+logging:
+  level:
+    burrito.saladservice: debug
