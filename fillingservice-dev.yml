@@ -1,0 +1,12 @@
+#Logging Stuff
+logging:
+  level:
+    fillingservice: debug
+
+#Hystrix
+meatclient:
+  hystrix:
+    timeoutInMilliseconds: 3000
+saladclient:
+  hystrix:
+    timeoutInMilliseconds=3000
