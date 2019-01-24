@@ -9,4 +9,4 @@ meatclient:
     timeoutInMilliseconds: 3000
 saladclient:
   hystrix:
-    timeoutInMilliseconds=3000
+    timeoutInMilliseconds: 3000
