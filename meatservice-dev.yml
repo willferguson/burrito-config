@@ -1,5 +1,5 @@
 #Artifical delay for Hystrix testing
-delay: 500
+delay: 50
 
 #Logging
 logging:
