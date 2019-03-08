@@ -6,7 +6,7 @@ logging:
 #Hystrix
 meatclient:
   hystrix:
-    timeoutInMilliseconds: 3000
+    timeoutInMilliseconds: 1000
 saladclient:
   hystrix:
     timeoutInMilliseconds: 3000
